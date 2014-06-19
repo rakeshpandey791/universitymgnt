@@ -18,7 +18,7 @@
  * NOTE: If you change these, also change the error_reporting() code below
  *
  */
-	define('ENVIRONMENT', 'development'); echo 'test12312345678912345';
+	define('ENVIRONMENT', 'development'); echo 'test123';
 /*
  *---------------------------------------------------------------
  * ERROR REPORTING
