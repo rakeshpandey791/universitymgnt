@@ -18,7 +18,7 @@
  * NOTE: If you change these, also change the error_reporting() code below
  *
  */
-	define('ENVIRONMENT', 'development');echo '123';
+	define('ENVIRONMENT', 'development');echo '12';
 /*
  *---------------------------------------------------------------
  * ERROR REPORTING
