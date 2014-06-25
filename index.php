@@ -18,7 +18,7 @@
  * NOTE: If you change these, also change the error_reporting() code below
  *
  */
-	define('ENVIRONMENT', 'development');echo 'testing';
+	define('ENVIRONMENT', 'development');echo 'testingtestingtestingtestingtesting';
 /*
  *---------------------------------------------------------------
  * ERROR REPORTING
